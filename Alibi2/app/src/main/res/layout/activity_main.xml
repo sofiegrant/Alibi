@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Source:
+ Google Inc. (2014b). Google Play Game Services: Android Samples: TypeANumber [Software].
+ Available from https://github.com/playgameservices/android-basic-samples
+-->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_container">
+
+</FrameLayout>

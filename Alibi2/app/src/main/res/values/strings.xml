@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Sources:
+ Google Inc. (2014a). Google Play Game Services: Android Samples: SkeletonTbmp [Software].
+ Available from https://github.com/playgameservices/android-basic-samples
+ Google Inc. (2014b). Google Play Game Services: Android Samples: TypeANumber [Software].
+ Available from https://github.com/playgameservices/android-basic-samples
+-->
+
+<resources>
+    <string name="app_name">Alibi</string>
+    <string name="title_activity_main">Alibi</string>
+
+    <string name="status_multiplayer_error_not_trusted_tester">Anyone you invite must be a trusted
+        tester</string>
+    <string name="match_error_already_rematched">This rematch has already been started!</string>
+    <string name="client_reconnect_required">Games client reconnect required</string>
+    <string name="network_error_operation_failed">Network error: Operation failed</string>
+    <string name="internal_error">Internal error</string>
+    <string name="unexpected_status">Unexpected status</string>
+    <string name="match_error_inactive_match">This match is inactive.</string>
+    <string name='match_error_locally_modified'>This match has locally-modified data.  This
+        operation cannot be performed until the match is sent to the server.</string>
+
+    <string name="inbox_not_available">Please sign in to view your inbox.</string>
+    <string name="game_not_available">Please sign in to play Alibi.</string>
+    <string name="signin_failure">Failed to sign in. Please check your network connection and
+        try again.</string>
+    <string name="signin_other_error">There was an issue with sign in.  Please try again
+        later.</string>
+
+    <string name="play_alibi">Play Alibi</string>
+    <string name="check_inbox">Check Inbox</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="sign_out">Sign out</string>
+    <string name="signed_out_greeting">Hello, anonymous user (not signed in)!</string>
+    <string name="return_to_menu">Return to Menu</string>
+    <string name="return_to_game">Done</string>
+
+    <string name="plot">Plot</string>
+    <string name="plot_summary">Mad Libs is a popular word game where one player asks another to
+        provide them with nouns, adjectives, verbs, and other types of words. These words are added
+        to blank slots in a story. The result is a humorous, mixed up tale all players can enjoy
+        reading aloud. To add to the fun, this app takes over the job of asking players for words
+        so that both players can enjoy building a story together.</string>
+    <string name="gameflow">Gameflow</string>
+    <string name="gameflow_summary">Within the game itself, Alibi features some menu options
+        to help you manage your turn. To submit your word suggestion to the game, press Done. To
+        stop playing the game and delete it from your list of ongoing games, press Cancel. To leave
+        the game without suggesting a new word, press Leave. When you\'ve submitted enough words to
+        complete your story, you and your partner will get the chance to see it. After you are done
+        reading the story, select Done on the story menu, then Done in the game menu.</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="recommendations_summary">The game works best if you include supporting words such
+        as the, a, or an with your word. E.G. The turkey, an orange, or a straw.</string>
+
+    <string name="enter_singular_noun">Enter a singular noun</string>
+
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="leave">Leave</string>
+
+    <string name="congratulations">Congratulations! You\'ve finished your story.</string>
+</resources>
